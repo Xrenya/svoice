@@ -3,7 +3,7 @@
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 |  TH  |  TH  |
 | ---- | ---- |
-|<audio id="ABC" source src="https://github.com/Xrenya/svoice/blob/master/samples/0.wav"></audio><button onclick="playAudio('ABC')" type="button">play</button>  |  TD  |
+|[example](/samples/0.wav) |  TD  |
 |  TD  |  TD  |
 
 
