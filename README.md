@@ -3,7 +3,7 @@
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 |  TH  |  TH  |
 | ---- | ---- |
-|<audio src="samples/0.wav" controls preload></audio>|  TD  |
+|<audio src="/samples/0.wav" controls preload></audio>|  TD  |
 |  TD  |  TD  |
 
 
