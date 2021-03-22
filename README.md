@@ -3,7 +3,7 @@
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 |  TH  |  TH  |
 | ---- | ---- |
-|<audio id="ABC" source src="/samples/0.wav"></audio><button onclick="playAudio('ABC')" type="button">play</button>  |  TD  |
+|<audio id="ABC" source src="samples/0.wav"></audio><button onclick="playAudio('ABC')" type="button">play</button>  |  TD  |
 |  TD  |  TD  |
 
 
