@@ -1,5 +1,7 @@
 # The checkpoint is provided in "Releases"
 
+### English Dataset
+
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 | Quality | Mixed |  Speaker 1  |  Speaker 2  |
 |---------|-------|-------------|-------------|
@@ -13,6 +15,10 @@ width="49%">
 <img src="./img/si_snri.png" alt="SI-SNRi curves of the model."
 width="49%">
 </p>
+
+### Russian Dataset
+
+TO DO.
 
 # Voice Separation with an Unknown Number of Multiple Speakers (ICML 2020)
 
