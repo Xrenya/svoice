@@ -1,4 +1,4 @@
-# The checkpoint is provided in Releases
+# The checkpoint is provided in "Releases"
 
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 | Quality | Mixed |  Speaker 1  |  Speaker 2  |
