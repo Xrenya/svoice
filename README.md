@@ -7,6 +7,9 @@ The model was trained using 10 hours of English open speech dataset. The output 
 | Normal | [M1](https://github.com/Xrenya/svoice/blob/master/samples/2.wav) | [S1](https://github.com/Xrenya/svoice/blob/master/samples/2_s1.wav) |   [S2](https://github.com/Xrenya/svoice/blob/master/samples/2_s2.wav) |
 | Normal | [M1](https://github.com/Xrenya/svoice/blob/master/samples/9000.wav) | [S1](https://github.com/Xrenya/svoice/blob/master/samples/9000_s1.wav) |   [S2](https://github.com/Xrenya/svoice/blob/master/samples/9000_s2.wav) |
 
+<p align="center">
+<img src="./img/loss.png" alt="Training curves of the model."
+width="49%">
 
 
 # Voice Separation with an Unknown Number of Multiple Speakers (ICML 2020)
