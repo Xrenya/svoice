@@ -2,6 +2,7 @@
 
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 | Example | Mixed |  Speaker 1  |  Speaker 2  |
+|---------|-------|-------------|-------------|
 | Bad | [M1](https://github.com/Xrenya/svoice/blob/master/samples/0.wav) | [S1](https://github.com/Xrenya/svoice/blob/master/samples/0_s1.wav) |   [S2](https://github.com/Xrenya/svoice/blob/master/samples/0_s2.wav) |
 | Normal | [M1](https://github.com/Xrenya/svoice/blob/master/samples/2.wav) | [S1](https://github.com/Xrenya/svoice/blob/master/samples/2_s1.wav) |   [S2](https://github.com/Xrenya/svoice/blob/master/samples/2_s2.wav) |
 | Normal | [M1](https://github.com/Xrenya/svoice/blob/master/samples/9000.wav) | [S1](https://github.com/Xrenya/svoice/blob/master/samples/9000_s1.wav) |   [S2](https://github.com/Xrenya/svoice/blob/master/samples/9000_s2.wav) |
