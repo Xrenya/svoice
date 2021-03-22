@@ -1,3 +1,16 @@
+# The checkpoint is provided in Releases
+
+The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
+|  TH  |  TH  |
+| ---- | ---- |
+|  <script>
+var audio = new Audio("https://github.com/Xrenya/svoice/blob/master/samples/0.wav")
+audio.play()
+</script>  |  TD  |
+|  TD  |  TD  |
+
+
+
 # Voice Separation with an Unknown Number of Multiple Speakers (ICML 2020)
 
 We provide a [PyTorch][pytorch] implementation of the paper: [Voice Separation with an Unknown Number of Multiple Speakers][arxiv] In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, while maintaining the speaker in each output channel fixed. A different model is trained for every number of possible speakers, and the model with the largest number of speakers is employed to select the actual number of speakers in a given sample. Our method greatly outperforms the current state of the art, which, as we show, is not competitive for more than two speakers. Please note that this implementation does not contain the "IDloss" as described in the paper.
