@@ -3,7 +3,7 @@
 The model was trained using 10 hours of English open speech dataset. The output examples are provided below.
 |  TH  |  TH  |
 | ---- | ---- |
-|[example](https://github.com/Xrenya/svoice/blob/master/samples/0.wav) |  TD  |
+|[![Demo CountPages alpha](https://github.com/Xrenya/svoice/blob/master/samples/0.wav)](https://github.com/Xrenya/svoice/blob/master/samples/0.wav) |  TD  |
 |  TD  |  TD  |
 
 
