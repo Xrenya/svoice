@@ -10,7 +10,9 @@ The model was trained using 10 hours of English open speech dataset. The output 
 <p align="center">
 <img src="./img/loss.png" alt="Training curves of the model."
 width="49%">
-
+<img src="./img/si_snri.png" alt="SI-SNRi curves of the model."
+width="49%">
+</p>
 
 # Voice Separation with an Unknown Number of Multiple Speakers (ICML 2020)
 
